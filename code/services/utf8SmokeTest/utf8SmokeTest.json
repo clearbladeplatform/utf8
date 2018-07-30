@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,utf8",
+    "logging_enabled": "false",
+    "name": "utf8SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "utf8SmokeTest.js"
+}
